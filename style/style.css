@@ -1,0 +1,42 @@
+body {
+  background-color: #eee !important;
+}
+
+.search-bar {
+  margin: 20px;
+  text-align: center;
+}
+
+.search-bar input {
+  padding: 2px 8px;
+  width: 75%;
+  font-size: 1em;
+  border: 1px solid rgba(0,0,0,.125);
+}
+
+.video-item img {
+  max-width: 64px;
+}
+
+.video-title {
+  font-size: 1em;
+}
+
+.list-group-item {
+  cursor: pointer;
+}
+
+.details {
+  margin: 30px 0;
+  padding: 30px;
+  background-color: white;
+  border: 1px solid rgba(0,0,0,.125);
+}
+
+.details h1 {
+  font-size: 1.4em;
+}
+
+.details .description {
+  font-size: .8em;
+}
