@@ -12,6 +12,7 @@ body {
   width: 75%;
   font-size: 1em;
   border: 1px solid rgba(0,0,0,.125);
+  box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.2);
 }
 
 .video-item img {

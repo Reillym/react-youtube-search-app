@@ -7,7 +7,7 @@ import VideoList from "./components/video_list";
 import VideoDetail from "./components/video_detail";
 
 // Youtube Data v3 API
-const API_KEY = "AIzaSyATyMyeyiN9KuKZVoGZbJLPAGYud68WVBQ";
+// const API_KEY = API_KEY;
 
 // Stateless Funcational Component
 class App extends React.Component {
