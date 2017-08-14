@@ -5,9 +5,8 @@ import YTSearch from "youtube-api-search";
 import SearchBar from "./components/search_bar";
 import VideoList from "./components/video_list";
 import VideoDetail from "./components/video_detail";
-
 // Youtube Data v3 API
-// const API_KEY = API_KEY;
+const API_KEY = "AIzaSyATyMyeyiN9KuKZVoGZbJLPAGYud68WVBQ";
 
 // Stateless Funcational Component
 class App extends React.Component {
